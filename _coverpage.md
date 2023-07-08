@@ -4,5 +4,5 @@
 
 > 💪德猴的个人网站（目前正在研发中......)
 
-[GitHub](https://github.com/pengmoxiao/pengmoxiao.github.io)
+[GitHub](https://github.com/pengmoxiao)
 [Bilbili](https://space.bilibili.com/1699422960)
