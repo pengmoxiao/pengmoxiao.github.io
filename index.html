@@ -15,10 +15,6 @@
 		<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.css" /> -->
 		<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" /> -->
 		<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/pure.css" /> -->
-		<link
-		rel="stylesheet"
-		href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-	  	/>
 	</head>
 	<body>
 		<div data-app id="main">加载中，请耐心等待......（网站的速度比较慢，实在加载不出来请刷新一下）</div>
@@ -57,11 +53,9 @@
 					// 支持本地化
 					placeholder: {
 						'/': '搜索',
-						'/zh-en/': 'Type to search'
 					},
 					noData: {
 					        '/': '找不到结果',
-					        '/zh-en/': 'No Results'
 					      },
 					depth: 4,
 					hideOtherSidebarContent: false,
@@ -94,15 +88,5 @@
 		<script src="//cdn.jsdelivr.net/npm/prismjs@1.24.1/components/prism-python.min.js"></script>
 		<!-- 备案插件 -->
 		<script src="//cdn.jsdelivr.net/npm/docsify-beian@latest/dist/beian.min.js"></script>
-		<div id="waline"></div>
-		<script type="module">
-		  import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
-	  
-		  init({
-			el: '#waline',
-			serverURL: 'https://comment.moxiao.site',
-		  });
-		</script>
-		<script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 	</body>
 </html>
