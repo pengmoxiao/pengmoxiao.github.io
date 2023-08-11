@@ -5,5 +5,3 @@
 #### 链接
 
 [德猴的三连服](server/sanlian/)
-
-[德猴的机械动力服](server/jxdl/)
