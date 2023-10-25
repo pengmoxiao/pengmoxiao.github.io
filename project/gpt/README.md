@@ -2,4 +2,4 @@
 
 当前可以用的有一个（还有一个正在开发）
 
-[Gpt3.5](gpt/gpt35.md)
+[Gpt3.5](project/gpt/gpt35.md)

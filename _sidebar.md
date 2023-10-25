@@ -2,7 +2,7 @@
 
 * [公告](notice/)
 * [文章](blog/)
-* [ChatGpt](gpt/)
+* [小项目](project/)
 * [学校(星洲二小)](xingzhou2/)
 * [HFLS](HFLS/)
 * [服务器](server/)
