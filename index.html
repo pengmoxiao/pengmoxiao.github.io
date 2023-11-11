@@ -71,15 +71,9 @@
 				count: {
       				language: "", // default:english|chinese
     			},
-				// waline: {
-      			// 	// Required example：https://your-domain.vercel.app
-      			// 	serverURL: "https://your-domain.vercel.app",
-      			// 	// enable pageview count
-      			// 	pageview: true,
-      			// 	// ...
-      			// 	// don't support custom `el` and `path`
-    			// },
-				//Not finished:waline
+				waline: {
+      				serverURL: "https://waline.moxiao.site",
+    			},
 			}
 		</script>
 		</script>
@@ -100,6 +94,12 @@
 		<script src="./js/prism-python.min.js"></script>
 		<!-- 备案插件 -->
 		<script src="./js/beian.min.js"></script>
-		<!-- <script src="./js/docsify-waline.min.js"></script> -->
+		<!-- 评论系统 -->
+		<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+		<link
+  			rel="stylesheet"
+  			href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+		/>
+		<script src="https://unpkg.com/docsify-waline@2/docsify-waline.min.js"></script>
 	</body>
 </html>
