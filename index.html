@@ -27,7 +27,7 @@
 				// 项目名称
 				name: '德猴的个人主页！',
 				// 项目图标
-				logo: 'icon.png',
+				// logo: 'icon.png',
 				// 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
 				repo: 'https://gitee.com/lftiger/my-docsify-site',
 				// 封面支持，默认加载的是项目根目录下的_coverpage.md文件
@@ -79,21 +79,28 @@
 		</script>
 		</script>
 		<!-- docsify的js依赖 -->
-		<script src="./js/docsify.min.js"></script>
+		<script src="https://github.elemecdn.com/docsify/lib/docsify.min.js"></script>
 		<!-- emoji表情支持 -->
-		<script src="./js/emoji.min.js"></script>
+		<script src="https://github.elemecdn.com/docsify/lib/plugins/emoji.min.js"></script>
 		<!-- 图片放大缩小支持 -->
-		<script src="./js/zoom-image.min.js"></script>
+		<script src="https://github.elemecdn.com/docsify/lib/plugins/zoom-image.min.js"></script>
 		<!-- 搜索功能支持 -->
-		<script src="./js/search.min.js"></script>
+		<script src="https://github.elemecdn.com/docsify/lib/plugins/search.min.js"></script>
 		<!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
-		<script src="./js/docsify-copy-code.min.js"></script>
+		<script src="https://github.elemecdn.com/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
 		<!-- 外部脚本 如果页面上的脚本是外部脚本（通过src属性导入 js 文件） -->
-		<script src="./js/external-script.min.js"></script>
+		<!-- <script src="./js/external-script.min.js"></script> -->
 		<!-- 插件列表 -->
-		<script src="./js/prism-bash.min.js"></script>
-		<script src="./js/prism-python.min.js"></script>
+		<script src="https://github.elemecdn.com/prismjs@1/components/prism-bash.min.js"></script>
+		<script src="https://github.elemecdn.com/prismjs@1/components/prism-python.min.js"></script>
 		<!-- 备案插件 -->
 		<script src="./js/beian.min.js"></script>
+		<!-- 评论系统 -->
+		<script src="https://github.elemecdn.com/@waline/client@v2/dist/waline.js"></script>
+		<link
+			rel="stylesheet"
+			href="https://github.elemecdn.com/@waline/client@v2/dist/waline.css"
+		/>
+		<script src="./js/docsify-waline.min.js"></script>
 	</body>
 </html>
