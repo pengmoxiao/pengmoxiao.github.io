@@ -6,9 +6,9 @@
 
 [个人网盘](project/pan/)
 
-[短链接网站（坏）](project/sort/)
+[短链接网站](project/sort/)
 
-[PCL2主页（坏）](project/pcl_homepage/)
+[PCL2主页](project/pcl_homepage/)
 
 [聊天网站（坏）](project/chat/)
 

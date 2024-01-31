@@ -10,6 +10,8 @@
 
 2023年12月23日，服务器重置存档。种子：-6490595073902106456
 
+2024年1月6日，服务器正式宣布停服，改为德猴的三连模组服。原存档将会保留，新服务器为新存档。
+
 #### IP地址
 
 不要DDoS攻击我的服务器！真的受不了
@@ -28,5 +30,5 @@ moxiao.site
 
 这是服务器群聊的地址，在kook上
 
-[https://kook.top/5RvcmD](https://kook.top/5RvcmD)
+[https://kook.top/uRBOd5](https://kook.top/uRBOd5)
 
