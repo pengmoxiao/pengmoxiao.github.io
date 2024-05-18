@@ -8,3 +8,4 @@
 
 ### [公告](notice/)
 
+### [状态（必看！）](https://stats.uptimerobot.com/Y2QY9bLYVW)
