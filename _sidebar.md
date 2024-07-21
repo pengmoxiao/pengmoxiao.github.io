@@ -7,4 +7,4 @@
 * [HFLS](HFLS/)
 * [服务器](server/)
 * [联系方式](info/)
-* [赞助](sponsor/)
+* [赞助](sponsorship/)

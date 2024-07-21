@@ -2,11 +2,11 @@
 
 平常制作的项目都会放在这里
 
-[ChatGpt](project/gpt/)
+[ChatGpt（坏）](project/gpt/)
 
 [个人网盘](project/pan/)
 
-[短链接网站](project/sort/)
+[短链接网站](project/short/)
 
 [PCL2主页](project/pcl_homepage/)
 
