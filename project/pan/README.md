@@ -6,12 +6,10 @@
 
 [pan.moxiao.site](http://pan.moxiao.site/)
 
-[xubomo.moxiao.site](http://xubomo.moxiao.site/)
+# 班级公共网盘
 
-#### 密码
-
-xubomo.moxiao.site：
+[alist.moxiao.site](http://alist.moxiao.site/)
 
 用户名：HFLS
 
-密码：（无）
+密码: 微信群公告！
